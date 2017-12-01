@@ -1,0 +1,13 @@
+2017-12-01 20:00:45
+step 5/0:   
+	( 5 invalid actions generated )   110
+	[  R_R	R_H	R_E	R_A	R_G	R_A	R_E	R_H	R_R	 ]
+	[   0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 ]
+	[   0 	R_C	 0 	 0 	 0 	 0 	 0 	R_C	 0 	 ]
+	[  R_S	 0 	R_S	 0 	R_S	 0 	R_S	 0 	R_S	 ]
+	[   0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 ]
+	[   0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 ]
+	[  B_S	 0 	B_S	 0 	B_S	 0 	B_S	 0 	B_S	 ]
+	[   0 	B_C	B_H	 0 	 0 	 0 	 0 	B_C	 0 	 ]
+	[   0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 0 	 ]
+	[  B_R	 0 	B_E	B_A	B_G	B_A	B_E	B_H	B_R	 ]
